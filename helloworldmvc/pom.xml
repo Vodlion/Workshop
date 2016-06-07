@@ -22,4 +22,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- http://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+  <modules>
+  	<module>controller</module>
+  	<module>view</module>
+  	<module>model</module>
+  	<module>contract</module>
+  </modules>
 </project>
